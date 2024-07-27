@@ -11,7 +11,7 @@
 <br>
 
 # 📝 ActionList   
- **ActionList Web Application** Built a k8s controller that will allow the deployment of OPAL as part of the k8s platform. Developed an ActionList Webapp where users' karma and location affect their permissions to perform operations. Fetched the data dynamically from a MySQL server.
+ **ActionList Web Application** Built a k8s controller that will allow the deployment of OPAL as part of the k8s platform utilizing cyclops for managing the clusters. Developed an ActionList Webapp where users' karma and location affect their permissions to perform operations. Fetched the data dynamically from a MySQL server.
 
 <br>
 
